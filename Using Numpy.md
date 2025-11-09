@@ -26,6 +26,11 @@ np_height_m = np_height_in * 0.0254
 # Print np_height_m
 print(np_height_m)
 
-## 🧮 Script
+
+---
+
+
+## Result
+```python
 [74 74 72 ... 75 75 73]
 [1.8796 1.8796 1.8288 ... 1.905  1.905  1.8542]
